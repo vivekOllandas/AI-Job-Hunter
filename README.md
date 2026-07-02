@@ -1,1 +1,1 @@
-# AI-Job-Hunter
+# AI Job Hunter
